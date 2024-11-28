@@ -1,0 +1,14 @@
+C:\Users\adzih\source\repos\DocumentWorker_task\obj\Debug\net8.0\DocumentWorker_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adzih\source\repos\DocumentWorker_task\obj\Debug\net8.0\DocumentWorker_task.AssemblyInfoInputs.cache
+C:\Users\adzih\source\repos\DocumentWorker_task\obj\Debug\net8.0\DocumentWorker_task.AssemblyInfo.cs
+C:\Users\adzih\source\repos\DocumentWorker_task\obj\Debug\net8.0\DocumentWorker_task.csproj.CoreCompileInputs.cache
+C:\Users\adzih\source\repos\DocumentWorker_task\bin\Debug\net8.0\DocumentWorker_task.exe
+C:\Users\adzih\source\repos\DocumentWorker_task\bin\Debug\net8.0\DocumentWorker_task.deps.json
+C:\Users\adzih\source\repos\DocumentWorker_task\bin\Debug\net8.0\DocumentWorker_task.runtimeconfig.json
+C:\Users\adzih\source\repos\DocumentWorker_task\bin\Debug\net8.0\DocumentWorker_task.dll
+C:\Users\adzih\source\repos\DocumentWorker_task\bin\Debug\net8.0\DocumentWorker_task.pdb
+C:\Users\adzih\source\repos\DocumentWorker_task\obj\Debug\net8.0\DocumentWorker_task.dll
+C:\Users\adzih\source\repos\DocumentWorker_task\obj\Debug\net8.0\refint\DocumentWorker_task.dll
+C:\Users\adzih\source\repos\DocumentWorker_task\obj\Debug\net8.0\DocumentWorker_task.pdb
+C:\Users\adzih\source\repos\DocumentWorker_task\obj\Debug\net8.0\DocumentWorker_task.genruntimeconfig.cache
+C:\Users\adzih\source\repos\DocumentWorker_task\obj\Debug\net8.0\ref\DocumentWorker_task.dll

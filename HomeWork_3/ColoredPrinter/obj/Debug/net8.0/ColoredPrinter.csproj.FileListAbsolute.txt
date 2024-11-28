@@ -1,0 +1,14 @@
+C:\Users\adzih\source\repos\ColoredPrinter\bin\Debug\net8.0\ColoredPrinter.exe
+C:\Users\adzih\source\repos\ColoredPrinter\bin\Debug\net8.0\ColoredPrinter.deps.json
+C:\Users\adzih\source\repos\ColoredPrinter\bin\Debug\net8.0\ColoredPrinter.runtimeconfig.json
+C:\Users\adzih\source\repos\ColoredPrinter\bin\Debug\net8.0\ColoredPrinter.dll
+C:\Users\adzih\source\repos\ColoredPrinter\bin\Debug\net8.0\ColoredPrinter.pdb
+C:\Users\adzih\source\repos\ColoredPrinter\obj\Debug\net8.0\ColoredPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adzih\source\repos\ColoredPrinter\obj\Debug\net8.0\ColoredPrinter.AssemblyInfoInputs.cache
+C:\Users\adzih\source\repos\ColoredPrinter\obj\Debug\net8.0\ColoredPrinter.AssemblyInfo.cs
+C:\Users\adzih\source\repos\ColoredPrinter\obj\Debug\net8.0\ColoredPrinter.csproj.CoreCompileInputs.cache
+C:\Users\adzih\source\repos\ColoredPrinter\obj\Debug\net8.0\ColoredPrinter.dll
+C:\Users\adzih\source\repos\ColoredPrinter\obj\Debug\net8.0\refint\ColoredPrinter.dll
+C:\Users\adzih\source\repos\ColoredPrinter\obj\Debug\net8.0\ColoredPrinter.pdb
+C:\Users\adzih\source\repos\ColoredPrinter\obj\Debug\net8.0\ColoredPrinter.genruntimeconfig.cache
+C:\Users\adzih\source\repos\ColoredPrinter\obj\Debug\net8.0\ref\ColoredPrinter.dll

@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\Task_Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\Task_Vehicle.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\Task_Vehicle.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\Task_Vehicle.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\Task_Vehicle.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\bin\Debug\net8.0\Task_Vehicle.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\bin\Debug\net8.0\Task_Vehicle.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\bin\Debug\net8.0\Task_Vehicle.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\bin\Debug\net8.0\Task_Vehicle.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\bin\Debug\net8.0\Task_Vehicle.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\Task_Vehicle.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\refint\Task_Vehicle.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\Task_Vehicle.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\Task_Vehicle.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_3\Task_Vehicle\obj\Debug\net8.0\ref\Task_Vehicle.dll

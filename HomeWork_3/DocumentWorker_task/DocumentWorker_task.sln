@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentWorker_task", "DocumentWorker_task.csproj", "{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColoredPrinter", "..\ColoredPrinter\ColoredPrinter.csproj", "{A5D0BAAA-E70F-40FF-8B79-A5D0C0F5640E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D0BAAA-E70F-40FF-8B79-A5D0C0F5640E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D0BAAA-E70F-40FF-8B79-A5D0C0F5640E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D0BAAA-E70F-40FF-8B79-A5D0C0F5640E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D0BAAA-E70F-40FF-8B79-A5D0C0F5640E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F6DA97-0202-4B71-A24C-18579C828D88}
+	EndGlobalSection
+EndGlobal

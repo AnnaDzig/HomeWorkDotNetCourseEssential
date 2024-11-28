@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adzih\\source\\repos\\DocumentWorker_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D0BAAA-E70F-40FF-8B79-A5D0C0F5640E}|..\\ColoredPrinter\\ColoredPrinter.csproj|c:\\users\\adzih\\source\\repos\\coloredprinter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}|DocumentWorker_task.csproj|c:\\users\\adzih\\source\\repos\\documentworker_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}|DocumentWorker_task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D0BAAA-E70F-40FF-8B79-A5D0C0F5640E}|..\\ColoredPrinter\\ColoredPrinter.csproj|c:\\users\\adzih\\source\\repos\\coloredprinter\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D0BAAA-E70F-40FF-8B79-A5D0C0F5640E}|..\\ColoredPrinter\\ColoredPrinter.csproj|c:\\users\\adzih\\source\\repos\\coloredprinter\\yellowprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D0BAAA-E70F-40FF-8B79-A5D0C0F5640E}|..\\ColoredPrinter\\ColoredPrinter.csproj|c:\\users\\adzih\\source\\repos\\coloredprinter\\redprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}|DocumentWorker_task.csproj|c:\\users\\adzih\\source\\repos\\documentworker_task\\documentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}|DocumentWorker_task.csproj|solutionrelative:documentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}|DocumentWorker_task.csproj|c:\\users\\adzih\\source\\repos\\documentworker_task\\expertdocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}|DocumentWorker_task.csproj|solutionrelative:expertdocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}|DocumentWorker_task.csproj|c:\\users\\adzih\\source\\repos\\documentworker_task\\prodocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42DC05C-DF1E-4B60-8B51-7FA9C74A99EC}|DocumentWorker_task.csproj|solutionrelative:prodocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YellowPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\adzih\\source\\repos\\ColoredPrinter\\YellowPrinter.cs",
+              "RelativeDocumentMoniker": "..\\ColoredPrinter\\YellowPrinter.cs",
+              "ToolTip": "C:\\Users\\adzih\\source\\repos\\ColoredPrinter\\YellowPrinter.cs",
+              "RelativeToolTip": "..\\ColoredPrinter\\YellowPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:48:04.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\adzih\\source\\repos\\ColoredPrinter\\RedPrinter.cs",
+              "RelativeDocumentMoniker": "..\\ColoredPrinter\\RedPrinter.cs",
+              "ToolTip": "C:\\Users\\adzih\\source\\repos\\ColoredPrinter\\RedPrinter.cs",
+              "RelativeToolTip": "..\\ColoredPrinter\\RedPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:45:25.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\adzih\\source\\repos\\ColoredPrinter\\Printer.cs",
+              "RelativeDocumentMoniker": "..\\ColoredPrinter\\Printer.cs",
+              "ToolTip": "C:\\Users\\adzih\\source\\repos\\ColoredPrinter\\Printer.cs",
+              "RelativeToolTip": "..\\ColoredPrinter\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:41:30.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adzih\\source\\repos\\ColoredPrinter\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ColoredPrinter\\Program.cs",
+              "ToolTip": "C:\\Users\\adzih\\source\\repos\\ColoredPrinter\\Program.cs*",
+              "RelativeToolTip": "..\\ColoredPrinter\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:34:09.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpertDocumentWorker.cs",
+              "DocumentMoniker": "C:\\Users\\adzih\\source\\repos\\DocumentWorker_task\\ExpertDocumentWorker.cs",
+              "RelativeDocumentMoniker": "ExpertDocumentWorker.cs",
+              "ToolTip": "C:\\Users\\adzih\\source\\repos\\DocumentWorker_task\\ExpertDocumentWorker.cs",
+              "RelativeToolTip": "ExpertDocumentWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:12:05.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProDocumentWorker.cs",
+              "DocumentMoniker": "C:\\Users\\adzih\\source\\repos\\DocumentWorker_task\\ProDocumentWorker.cs",
+              "RelativeDocumentMoniker": "ProDocumentWorker.cs",
+              "ToolTip": "C:\\Users\\adzih\\source\\repos\\DocumentWorker_task\\ProDocumentWorker.cs",
+              "RelativeToolTip": "ProDocumentWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:09:50.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentWorker.cs",
+              "DocumentMoniker": "C:\\Users\\adzih\\source\\repos\\DocumentWorker_task\\DocumentWorker.cs",
+              "RelativeDocumentMoniker": "DocumentWorker.cs",
+              "ToolTip": "C:\\Users\\adzih\\source\\repos\\DocumentWorker_task\\DocumentWorker.cs",
+              "RelativeToolTip": "DocumentWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:06:30.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adzih\\source\\repos\\DocumentWorker_task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adzih\\source\\repos\\DocumentWorker_task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:06:03.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
