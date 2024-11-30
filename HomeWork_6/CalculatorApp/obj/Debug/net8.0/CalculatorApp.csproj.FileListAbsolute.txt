@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_6\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
