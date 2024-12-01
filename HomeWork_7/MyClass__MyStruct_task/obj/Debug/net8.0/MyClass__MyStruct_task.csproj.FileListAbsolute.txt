@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\bin\Debug\net8.0\MyClass__MyStruct_task.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\bin\Debug\net8.0\MyClass__MyStruct_task.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\bin\Debug\net8.0\MyClass__MyStruct_task.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\bin\Debug\net8.0\MyClass__MyStruct_task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\bin\Debug\net8.0\MyClass__MyStruct_task.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\MyClass__MyStruct_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\MyClass__MyStruct_task.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\MyClass__MyStruct_task.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\MyClass__MyStruct_task.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\MyClass__MyStruct_task.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\MyClass__MyStruct_task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\refint\MyClass__MyStruct_task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\MyClass__MyStruct_task.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\MyClass__MyStruct_task.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_7\MyClass__MyStruct_task\obj\Debug\net8.0\ref\MyClass__MyStruct_task.dll
