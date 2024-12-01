@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\Task#3 Article.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\Task#3 Article.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\Task#3 Article.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\Task#3 Article.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\Task#3 Article.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\bin\Debug\net8.0\Task#3 Article.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\bin\Debug\net8.0\Task#3 Article.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\bin\Debug\net8.0\Task#3 Article.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\bin\Debug\net8.0\Task#3 Article.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\bin\Debug\net8.0\Task#3 Article.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\Task#3 Article.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\refint\Task#3 Article.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\Task#3 Article.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\Task#3 Article.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_5\Task#3 Article\obj\Debug\net8.0\ref\Task#3 Article.dll
