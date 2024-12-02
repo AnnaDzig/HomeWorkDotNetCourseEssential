@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\bin\Debug\net8.0\andomValueDelegate.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\bin\Debug\net8.0\andomValueDelegate.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\bin\Debug\net8.0\andomValueDelegate.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\bin\Debug\net8.0\andomValueDelegate.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\bin\Debug\net8.0\andomValueDelegate.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\andomValueDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\andomValueDelegate.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\andomValueDelegate.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\andomValueDelegate.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\andomValueDelegate.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\andomValueDelegate.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\refint\andomValueDelegate.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\andomValueDelegate.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\andomValueDelegate.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\andomValueDelegate\obj\Debug\net8.0\ref\andomValueDelegate.dll

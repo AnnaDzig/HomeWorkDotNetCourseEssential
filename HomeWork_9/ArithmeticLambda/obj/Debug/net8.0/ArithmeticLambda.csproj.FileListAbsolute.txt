@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\bin\Debug\net8.0\ArithmeticLambda.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\bin\Debug\net8.0\ArithmeticLambda.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\bin\Debug\net8.0\ArithmeticLambda.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\bin\Debug\net8.0\ArithmeticLambda.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\bin\Debug\net8.0\ArithmeticLambda.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\ArithmeticLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\ArithmeticLambda.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\ArithmeticLambda.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\ArithmeticLambda.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\ArithmeticLambda.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\ArithmeticLambda.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\refint\ArithmeticLambda.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\ArithmeticLambda.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\ArithmeticLambda.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\ArithmeticLambda\obj\Debug\net8.0\ref\ArithmeticLambda.dll
