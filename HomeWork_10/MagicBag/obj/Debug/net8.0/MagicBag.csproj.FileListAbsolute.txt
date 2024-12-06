@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\MagicBag.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\MagicBag.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\MagicBag.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\MagicBag.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\MagicBag.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\bin\Debug\net8.0\MagicBag.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\bin\Debug\net8.0\MagicBag.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\bin\Debug\net8.0\MagicBag.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\bin\Debug\net8.0\MagicBag.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\bin\Debug\net8.0\MagicBag.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\MagicBag.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\refint\MagicBag.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\MagicBag.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\MagicBag.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\MagicBag\obj\Debug\net8.0\ref\MagicBag.dll
