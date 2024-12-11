@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\bin\Debug\net8.0\Task#6_ArrayList.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\bin\Debug\net8.0\Task#6_ArrayList.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\bin\Debug\net8.0\Task#6_ArrayList.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\bin\Debug\net8.0\Task#6_ArrayList.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\bin\Debug\net8.0\Task#6_ArrayList.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\Task#6_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\Task#6_ArrayList.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\Task#6_ArrayList.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\Task#6_ArrayList.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\Task#6_ArrayList.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\Task#6_ArrayList.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\refint\Task#6_ArrayList.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\Task#6_ArrayList.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\Task#6_ArrayList.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\Task#6_ArrayList\obj\Debug\net8.0\ref\Task#6_ArrayList.dll

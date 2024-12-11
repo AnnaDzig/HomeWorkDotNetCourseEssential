@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\bin\Debug\net8.0\DaysUntilNextBirthday.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\bin\Debug\net8.0\DaysUntilNextBirthday.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\bin\Debug\net8.0\DaysUntilNextBirthday.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\bin\Debug\net8.0\DaysUntilNextBirthday.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\bin\Debug\net8.0\DaysUntilNextBirthday.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\DaysUntilNextBirthday.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\DaysUntilNextBirthday.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\DaysUntilNextBirthday.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\DaysUntilNextBirthday.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\DaysUntilNextBirthday.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\DaysUntilNextBirthday.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\refint\DaysUntilNextBirthday.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\DaysUntilNextBirthday.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\DaysUntilNextBirthday.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\DaysUntilNextBirthday\obj\Debug\net8.0\ref\DaysUntilNextBirthday.dll

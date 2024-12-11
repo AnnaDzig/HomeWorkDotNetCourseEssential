@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\bin\Debug\net8.0\CustomArrayList.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\bin\Debug\net8.0\CustomArrayList.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\bin\Debug\net8.0\CustomArrayList.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\bin\Debug\net8.0\CustomArrayList.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\bin\Debug\net8.0\CustomArrayList.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\CustomArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\CustomArrayList.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\CustomArrayList.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\CustomArrayList.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\CustomArrayList.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\CustomArrayList.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\refint\CustomArrayList.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\CustomArrayList.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\CustomArrayList.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomArrayList\obj\Debug\net8.0\ref\CustomArrayList.dll
