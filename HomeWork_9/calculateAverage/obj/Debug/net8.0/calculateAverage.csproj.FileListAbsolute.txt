@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\bin\Debug\net8.0\calculateAverage.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\bin\Debug\net8.0\calculateAverage.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\bin\Debug\net8.0\calculateAverage.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\bin\Debug\net8.0\calculateAverage.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\bin\Debug\net8.0\calculateAverage.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\calculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\calculateAverage.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\calculateAverage.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\calculateAverage.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\calculateAverage.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\calculateAverage.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\refint\calculateAverage.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\calculateAverage.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\calculateAverage.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_9\calculateAverage\obj\Debug\net8.0\ref\calculateAverage.dll

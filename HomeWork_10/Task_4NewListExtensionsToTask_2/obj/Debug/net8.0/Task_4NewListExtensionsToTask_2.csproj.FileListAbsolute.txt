@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\bin\Debug\net8.0\Task_4NewListExtensionsToTask_2.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\bin\Debug\net8.0\Task_4NewListExtensionsToTask_2.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\bin\Debug\net8.0\Task_4NewListExtensionsToTask_2.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\bin\Debug\net8.0\Task_4NewListExtensionsToTask_2.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\bin\Debug\net8.0\Task_4NewListExtensionsToTask_2.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\Task_4NewListExtensionsToTask_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\Task_4NewListExtensionsToTask_2.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\Task_4NewListExtensionsToTask_2.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\Task_4NewListExtensionsToTask_2.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\Task_4NewListExtensionsToTask_2.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\Task_4NewListExtensionsToTask_2.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\refint\Task_4NewListExtensionsToTask_2.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\Task_4NewListExtensionsToTask_2.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\Task_4NewListExtensionsToTask_2.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_10\Task_4NewListExtensionsToTask_2\obj\Debug\net8.0\ref\Task_4NewListExtensionsToTask_2.dll

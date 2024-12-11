@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {F6BBBE0A-C768-4D7C-ADC6-E07ECD2C49FA}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaysUntilNextBirthday", "DaysUntilNextBirthday.csproj", "{54C89E11-06C2-4713-88DB-3A76526FE0B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C89E11-06C2-4713-88DB-3A76526FE0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C89E11-06C2-4713-88DB-3A76526FE0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C89E11-06C2-4713-88DB-3A76526FE0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C89E11-06C2-4713-88DB-3A76526FE0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6BBBE0A-C768-4D7C-ADC6-E07ECD2C49FA}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 50792e4c69b764846a3cd6eb627f283771be85a0

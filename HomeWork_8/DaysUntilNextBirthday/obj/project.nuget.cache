@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "DcbUuvSR3p4=",
@@ -5,4 +6,13 @@
   "projectFilePath": "D:\\DotNetCourse\\HomeWorkEssential\\HomeWork_8\\DaysUntilNextBirthday\\DaysUntilNextBirthday.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "DcbUuvSR3p4=",
+  "success": true,
+  "projectFilePath": "D:\\DotNetCourse\\HomeWorkEssential\\HomeWork_8\\DaysUntilNextBirthday\\DaysUntilNextBirthday.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 50792e4c69b764846a3cd6eb627f283771be85a0
 }

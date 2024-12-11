@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.GeneratedMSBuildEditorConfig.editorconfig
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.AssemblyInfoInputs.cache
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.AssemblyInfo.cs
@@ -13,3 +14,20 @@ D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\refi
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.pdb
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.genruntimeconfig.cache
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\ref\EmployeeBonus.dll
+=======
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\bin\Debug\net8.0\EmployeeBonus.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\bin\Debug\net8.0\EmployeeBonus.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\bin\Debug\net8.0\EmployeeBonus.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\bin\Debug\net8.0\EmployeeBonus.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\bin\Debug\net8.0\EmployeeBonus.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\refint\EmployeeBonus.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\EmployeeBonus.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\EmployeeBonus\obj\Debug\net8.0\ref\EmployeeBonus.dll
+>>>>>>> 50792e4c69b764846a3cd6eb627f283771be85a0

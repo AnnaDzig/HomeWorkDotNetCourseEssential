@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
@@ -13,3 +14,20 @@ D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\refint
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+=======
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_8\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+>>>>>>> 50792e4c69b764846a3cd6eb627f283771be85a0

@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\DocumentHandlers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\DocumentHandlers.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\DocumentHandlers.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\DocumentHandlers.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\DocumentHandlers.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\bin\Debug\net8.0\DocumentHandlers.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\bin\Debug\net8.0\DocumentHandlers.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\bin\Debug\net8.0\DocumentHandlers.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\bin\Debug\net8.0\DocumentHandlers.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\bin\Debug\net8.0\DocumentHandlers.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\DocumentHandlers.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\refint\DocumentHandlers.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\DocumentHandlers.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\DocumentHandlers.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_4\DocumentHandlers\obj\Debug\net8.0\ref\DocumentHandlers.dll

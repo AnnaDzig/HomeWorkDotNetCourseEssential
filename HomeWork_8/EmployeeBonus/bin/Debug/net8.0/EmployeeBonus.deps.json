@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v8.0",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeeBonus/1.0.0": {
+        "runtime": {
+          "EmployeeBonus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeBonus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 50792e4c69b764846a3cd6eb627f283771be85a0
 }
