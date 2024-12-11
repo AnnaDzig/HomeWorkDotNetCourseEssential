@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\CustomDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\CustomDictionary.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\CustomDictionary.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\CustomDictionary.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\CustomDictionary.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\bin\Debug\net8.0\CustomDictionary.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\bin\Debug\net8.0\CustomDictionary.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\bin\Debug\net8.0\CustomDictionary.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\bin\Debug\net8.0\CustomDictionary.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\bin\Debug\net8.0\CustomDictionary.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\CustomDictionary.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\refint\CustomDictionary.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\CustomDictionary.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\CustomDictionary.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_11\CustomDictionary\obj\Debug\net8.0\ref\CustomDictionary.dll
