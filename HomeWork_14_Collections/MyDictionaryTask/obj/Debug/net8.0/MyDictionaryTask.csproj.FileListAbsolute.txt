@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\MyDictionaryTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\MyDictionaryTask.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\MyDictionaryTask.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\MyDictionaryTask.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\MyDictionaryTask.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\bin\Debug\net8.0\MyDictionaryTask.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\bin\Debug\net8.0\MyDictionaryTask.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\bin\Debug\net8.0\MyDictionaryTask.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\bin\Debug\net8.0\MyDictionaryTask.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\bin\Debug\net8.0\MyDictionaryTask.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\MyDictionaryTask.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\refint\MyDictionaryTask.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\MyDictionaryTask.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\MyDictionaryTask.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyDictionaryTask\obj\Debug\net8.0\ref\MyDictionaryTask.dll

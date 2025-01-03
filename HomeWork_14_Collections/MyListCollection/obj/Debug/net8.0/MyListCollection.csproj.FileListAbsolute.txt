@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\bin\Debug\net8.0\MyListCollection.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\bin\Debug\net8.0\MyListCollection.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\bin\Debug\net8.0\MyListCollection.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\bin\Debug\net8.0\MyListCollection.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\bin\Debug\net8.0\MyListCollection.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\MyListCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\MyListCollection.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\MyListCollection.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\MyListCollection.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\MyListCollection.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\MyListCollection.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\refint\MyListCollection.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\MyListCollection.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\MyListCollection.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_14_Collections\MyListCollection\obj\Debug\net8.0\ref\MyListCollection.dll
