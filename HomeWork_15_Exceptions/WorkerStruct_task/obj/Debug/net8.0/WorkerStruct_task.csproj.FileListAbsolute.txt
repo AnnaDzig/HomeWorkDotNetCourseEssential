@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\WorkerStruct_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\WorkerStruct_task.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\WorkerStruct_task.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\WorkerStruct_task.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\WorkerStruct_task.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\bin\Debug\net8.0\WorkerStruct_task.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\bin\Debug\net8.0\WorkerStruct_task.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\bin\Debug\net8.0\WorkerStruct_task.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\bin\Debug\net8.0\WorkerStruct_task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\bin\Debug\net8.0\WorkerStruct_task.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\WorkerStruct_task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\refint\WorkerStruct_task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\WorkerStruct_task.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\WorkerStruct_task.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\WorkerStruct_task\obj\Debug\net8.0\ref\WorkerStruct_task.dll
