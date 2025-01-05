@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\bin\Debug\net8.0\Calculator_Task.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\bin\Debug\net8.0\Calculator_Task.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\bin\Debug\net8.0\Calculator_Task.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\bin\Debug\net8.0\Calculator_Task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\bin\Debug\net8.0\Calculator_Task.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\Calculator_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\Calculator_Task.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\Calculator_Task.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\Calculator_Task.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\Calculator_Task.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\Calculator_Task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\refint\Calculator_Task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\Calculator_Task.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\Calculator_Task.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Calculator_Task\obj\Debug\net8.0\ref\Calculator_Task.dll

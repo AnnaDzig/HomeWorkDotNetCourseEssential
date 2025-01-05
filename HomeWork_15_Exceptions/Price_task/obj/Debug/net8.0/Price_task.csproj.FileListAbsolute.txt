@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\Price_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\Price_task.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\Price_task.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\Price_task.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\Price_task.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\bin\Debug\net8.0\Price_task.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\bin\Debug\net8.0\Price_task.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\bin\Debug\net8.0\Price_task.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\bin\Debug\net8.0\Price_task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\bin\Debug\net8.0\Price_task.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\Price_task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\refint\Price_task.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\Price_task.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\Price_task.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_15_Exceptions\Price_task\obj\Debug\net8.0\ref\Price_task.dll
