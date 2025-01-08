@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\bin\Release\net8.0\Tasks_2_3_4.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\bin\Release\net8.0\Tasks_2_3_4.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\bin\Release\net8.0\Tasks_2_3_4.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\bin\Release\net8.0\Tasks_2_3_4.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\bin\Release\net8.0\Tasks_2_3_4.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\Tasks_2_3_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\Tasks_2_3_4.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\Tasks_2_3_4.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\Tasks_2_3_4.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\Tasks_2_3_4.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\Tasks_2_3_4.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\refint\Tasks_2_3_4.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\Tasks_2_3_4.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\Tasks_2_3_4.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Tasks_2_3_4\obj\Release\net8.0\ref\Tasks_2_3_4.dll
