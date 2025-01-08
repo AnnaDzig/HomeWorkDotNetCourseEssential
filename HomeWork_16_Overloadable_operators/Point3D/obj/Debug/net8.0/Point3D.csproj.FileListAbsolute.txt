@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\bin\Debug\net8.0\Point3D.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\bin\Debug\net8.0\Point3D.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\bin\Debug\net8.0\Point3D.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\bin\Debug\net8.0\Point3D.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\bin\Debug\net8.0\Point3D.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\Point3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\Point3D.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\Point3D.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\Point3D.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\Point3D.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\Point3D.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\refint\Point3D.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\Point3D.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\Point3D.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_16_Overloadable_operators\Point3D\obj\Debug\net8.0\ref\Point3D.dll
