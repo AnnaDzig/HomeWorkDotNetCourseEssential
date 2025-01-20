@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\bin\Debug\net8.0\DynamicCalculator.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\bin\Debug\net8.0\DynamicCalculator.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\bin\Debug\net8.0\DynamicCalculator.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\bin\Debug\net8.0\DynamicCalculator.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\bin\Debug\net8.0\DynamicCalculator.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\DynamicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\DynamicCalculator.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\DynamicCalculator.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\DynamicCalculator.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\DynamicCalculator.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\DynamicCalculator.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\refint\DynamicCalculator.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\DynamicCalculator.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\DynamicCalculator.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\DynamicCalculator\obj\Debug\net8.0\ref\DynamicCalculator.dll
