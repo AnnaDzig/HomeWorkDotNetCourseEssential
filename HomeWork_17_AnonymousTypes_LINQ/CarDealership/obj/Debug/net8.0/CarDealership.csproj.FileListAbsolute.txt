@@ -1,0 +1,15 @@
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\CarDealership.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\CarDealership.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\CarDealership.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\CarDealership.sourcelink.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\bin\Debug\net8.0\CarDealership.exe
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\bin\Debug\net8.0\CarDealership.deps.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\bin\Debug\net8.0\CarDealership.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\bin\Debug\net8.0\CarDealership.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\bin\Debug\net8.0\CarDealership.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\CarDealership.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\refint\CarDealership.dll
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\CarDealership.pdb
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\CarDealership.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\HomeWork_17_AnonymousTypes_LINQ\CarDealership\obj\Debug\net8.0\ref\CarDealership.dll
